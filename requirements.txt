@@ -122,6 +122,7 @@
 # websocket-client==1.8.0
 fastapi
 uvicorn[standard]
+numpy<2.0
 scikit-learn
 pandas
 xgboost==2.0.3

@@ -50,3 +50,4 @@ class ExplanationResponse(BaseModel):
     """
     base_value: float
     explanations: List[FeatureExplanation]
+    summary: str 
